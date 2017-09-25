@@ -1,5 +1,46 @@
 body{
-  border-style: solid;
-  border-width: 2px;
-  border-color: red;
+  background-color: black;
+  text-align: center;
+}
+#title01{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+#title02{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+#subtitle01{
+  font-family: Verdana;
+  font-size: 16px;
+  color: aquamarine;
+}
+#subtitle02{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+#title03{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+#subtitle03{
+  font-family: Verdana;
+  font-size: 16px;
+  color: aquamarine;
+}
+#subtitle04{
+  font-family: Verdana;
+  font-size: 16px;
+  color: gray;
+  text-align: right;
 }
